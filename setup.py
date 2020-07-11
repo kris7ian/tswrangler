@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small package to help wrangling pandas time series dataframes.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/kris7ian/tswrangler",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
